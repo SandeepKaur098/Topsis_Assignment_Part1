@@ -19,8 +19,9 @@ The algorithm follows these standard steps:
 5. **Euclidean Distance:** Calculates the distance of each alternative from the best and worst solutions.
 6. **Performance Score:** Calculates a score (0 to 1) and ranks the alternatives (Higher Score = Better Rank).
 
-## Usage
+Usage
 The script is designed to be run from the command line.
+
 python topsis.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
 
 
@@ -58,4 +59,5 @@ The following bar chart compares the performance of different funds based on the
 
 ## License
 This project is open-source and available for educational purposes.
+
 
