@@ -21,8 +21,8 @@ The algorithm follows these standard steps:
 
 ## Usage
 The script is designed to be run from the command line.
-
 python topsis.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
+
 
 ### Parameters
 * **InputDataFile**: Path to the input CSV file.
@@ -58,3 +58,4 @@ The following bar chart compares the performance of different funds based on the
 
 ## License
 This project is open-source and available for educational purposes.
+
